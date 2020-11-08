@@ -1,0 +1,30 @@
+{
+  "id": "1535369",
+  "name": "当当网",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7962265",
+      "name": "购物车",
+      "font_class": "gouwuche2",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10481731",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "11379248",
+      "name": "向下",
+      "font_class": "down",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}

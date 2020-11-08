@@ -1,0 +1,44 @@
+{
+  "id": "1535369",
+  "name": "当当网",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3437963",
+      "name": "左箭头",
+      "font_class": "right-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "5373211",
+      "name": "下箭头",
+      "font_class": "arrow-left",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7683242",
+      "name": "上箭头",
+      "font_class": "shangjiantou",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "9557782",
+      "name": "右箭头",
+      "font_class": "icon1",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "10481731",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
